@@ -1,8 +1,4 @@
 # awesome-sketch
-sketch3 resources
-
-![](http://bohemiancoding.com/static/images/home/app-icon.png)
-
 
 ##tool
 - [sketchtool](http://bohemiancoding.com/sketch/tool/)
