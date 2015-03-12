@@ -1,6 +1,9 @@
 # awesome-sketch
 sketch3 resources
 
+##tool
+- [sketchtool](http://bohemiancoding.com/sketch/tool/)
+
 ##tutorial
 
 ##useful resources
